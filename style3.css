@@ -1,0 +1,34 @@
+p{font-family: Verdana, sans-serif;}
+h1{font-family: 'Marko One', georgia; font-size: 1.5em; color: #993399; text-shadow: #D3D3D3;}
+h2{font-size: 1em;color: #CC6600;text-align: center;letter-spacing: 0.5em;text-transform: uppercase;}
+
+span.price{font-family: Georgia;color: #808080; font-style: italic;}
+span.label{color: grey; font-weight: bold;font-style: normal;}
+#info.p{color: grey;font-style: italic;}
+
+p{color: grey;}
+ul{list-style-type: none;}
+
+p.warning{color: #FF6347;font-style: italic;}
+title {color:#808080 ;}
+dt>strong{color: #FF0000;font-style: italic;}
+dt{color: #A0522D;font-weight: bold;}
+#div1{text-align: center;}
+
+.c1{list-style-type: lower-roman;}
+.c2{list-style-type: circle;}
+.c3{list-style-type: square;}
+.c4{list-style-image: url(images/bull.PNG);}
+
+body{background-color: #D2DC9D; background-image: url(images/bullseye.png); background-repeat: space; }
+#div1{background-color: white;opacity: 0.5;}
+
+a{color:#993399 ;}
+a:hover{color: #C700F2; background-color: #FFC0CB;}
+a:active{color: #937393;}
+
+#info{
+    background-image: url(images/purpledot.png);
+    background-repeat: repeat-x;
+    background-position: top;
+}
